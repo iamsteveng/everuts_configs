@@ -1,0 +1,51 @@
+{
+  "objectID": "0FC5EC6E-B385-4AB9-B01E-4BF229557450",
+  "type": "T2_PRODUCT",
+  "offerCount": 1,
+  "lineItemCount": 2,
+  "offers": [
+    {
+      "id": "28D3693F-59FD-4FAA-BA89-2EA4EEEC6A1E",
+      "isCheckout": true,
+      "lineItemCount": 2,
+      "storeId": "483",
+      "storeName": "Japanholic",
+      "country": "JP",
+      "avatar": "https://file-user-profile-asset.everuts.com/sto-img/e426a661-0243-47de-87a5-3045e4eb2230.webp",
+      "currency": "JPY",
+      "productImage": "https://product-assets.everuts.com/store/4986/7772a6a-2024-05-2512.53.14.png",
+      "productName": "ETVOS礦物UV身體防曬碎粉 SPF40 PA+++【8克】",
+      "category": "E030010010001",
+      "sellingPrice": 10000,
+      "weight": 1
+    }
+  ],
+  "storeIdList": ["483"],
+  "mainImage": "https://product-assets.everuts.com/store/4986/7772a6a-2024-05-2512.53.14.png",
+  "productName_en": "C2-D3-E2-F3-G2-H2",
+  "productName_zhhk": "ETVOS礦物UV身體防曬碎粉 SPF40 PA+++【8克】",
+  "categories_en": {
+    "lvl0": "Beauty & Fragrance",
+    "lvl1": "Beauty & Fragrance > Skincare",
+    "lvl2": "Beauty & Fragrance > Skincare > Cream"
+  },
+  "categories_zhhk": {
+    "lvl0": "美妝及香水",
+    "lvl1": "美妝及香水 > 護膚品",
+    "lvl2": "美妝及香水 > 護膚品 > 面霜"
+  },
+  "shippingCountry_en": "Japan",
+  "shippingCountry_zhhk": "日本",
+  "createDate": 1711634852,
+  "checkoutDate": 1711634852,
+  "updateDate": 1711634852,
+  "customerCountry": "HK",
+  "followOption": "BUY",
+  "isBanned": false,
+  "online": true,
+  "outOfStock": false,
+  "hasVariants": false,
+  "baseProductId": "3FAFDE18-CAF0-436A-A02E-A18A6ABF457B",
+  "brandName_zhhk": "CJ",
+  "brandName_en": "CJ"
+}

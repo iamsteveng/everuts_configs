@@ -1,0 +1,48 @@
+{
+  "objectID": "2",
+  "type": "REQUEST",
+  "offerCount": 2,
+  "lineItemCount": 2,
+  "offers": {
+    "0": {
+      "id": "2-1",
+      "isCheckout": true,
+      "storeId": "483",
+      "storeName": "Japanholic",
+      "storeCountry": "JP",
+      "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/e426a661-0243-47de-87a5-3045e4eb2230.webp",
+      "productImage": "https://product-assets.everuts.com/store/7147/cecca11-screenshot2024-05-13at5.14.11pm.png",
+      "productName": "ZERIA HEPALYSE GX 肝髒水解物護肝片 90錠 【第3類医薬品】",
+      "lineItemCount": 2
+    },
+    "1": {
+      "id": "2-2",
+      "isCheckout": false,
+      "storeId": "1381",
+      "storeName": "shibainuzakkaya",
+      "storeCountry": "JP",
+      "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/b7f126e1-41a6-40bd-b811-0b52a1a91858.webp",
+      "productImage": null,
+      "productName": "ZERIA HEPALYSE GX 肝髒水解物護肝片",
+      "lineItemCount": 1
+    }
+  },
+  "storeIdList": ["483", "1381"],
+  "mainImage": "https://product-assets.everuts.com/store/7147/cecca11-screenshot2024-05-13at5.14.11pm.png",
+  "productName_en": "ZERIA HEPALYSE GX 肝髒水解物護肝片 90錠 【第3類医薬品】",
+  "productName_zhhk": "ZERIA HEPALYSE GX 肝髒水解物護肝片 90錠 【第3類医薬品】",
+  "createDate": 1715591736084,
+  "customerCountry": "HK",
+  "checkoutDate": 1715591736084,
+  "followOption": "REQUEST",
+  "shippingCountry_en": "Japan",
+  "shippingCountry_zhhk": "日本",
+  "categories_en": {
+    "lvl0": "Health & Diet"
+  },
+  "categories_zhhk": {
+    "lvl0": "健康及保健產品"
+  },
+  "isBanned": false,
+  "updateDate": 1715591736084
+}

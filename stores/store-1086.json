@@ -1,0 +1,27 @@
+{
+  "objectID": "1086",
+  "storeId": "1086",
+  "storeName": "姸媽韓國雜貨店",
+  "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/a27dd250-77cf-4ea8-972f-84cc0d90d079.webp",
+  "currentLocationCode": "KR#SEOUL",
+  "currentLocation_zhhk": "首爾特別市",
+  "currentLocation_en": "Seoul",
+  "currentCountryCode": "KR",
+  "currentCountry_zhhk": "韓國",
+  "currentCountry_en": "Korea",
+  "_geoloc": {
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  "storeDescription": "Store 1086 Description",
+  "lastOfferDate": 1709608317,
+  "tier": 2,
+  "rating": 4.7,
+  "noOfReviews": 90,
+  "noOfOrders": 100,
+  "createDate": 1699758735,
+  "productImages": [
+    "store/7424/2bafd3a-screenshot2024-05-27at5.58.56pm.png",
+    "store/4986/7772a6a-2024-05-2512.53.14.png"
+  ]
+}

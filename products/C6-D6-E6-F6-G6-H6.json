@@ -1,0 +1,42 @@
+{
+  "objectID": "BFDE8CFF-7783-4207-9EBB-F76FED9C3E52",
+  "type": "REQUEST",
+  "offerCount": 1,
+  "lineItemCount": 1,
+  "offers": [
+    {
+      "id": "79517CD0-AE0A-4EEA-B259-8C2E86A86E4A",
+      "isCheckout": true,
+      "lineItemCount": 1,
+      "storeId": "483",
+      "storeName": "Japanholic",
+      "country": "JP",
+      "avatar": "https://file-user-profile-asset.everuts.com/sto-img/e426a661-0243-47de-87a5-3045e4eb2230.webp",
+      "currency": "JPY",
+      "productImage": "https://product-assets.everuts.com/store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png",
+      "productName": "Ottogi 大邱辣牛肉湯 500g X 3",
+      "category": "E060000000000",
+      "sellingPrice": 10000,
+      "weight": 1
+    }
+  ],
+  "storeIdList": ["483"],
+  "mainImage": "https://product-assets.everuts.com/store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png",
+  "productName_en": "C6-D6-E6-F6-G6-H6",
+  "productName_zhhk": "Ottogi 大邱辣牛肉湯 500g X 3",
+  "categories_en": {
+    "lvl0": "Food & Drink"
+  },
+  "categories_zhhk": {
+    "lvl0": "食品及飲料"
+  },
+  "shippingCountry_en": "Japan",
+  "shippingCountry_zhhk": "日本",
+  "createDate": 1694924138,
+  "checkoutDate": 1694924138,
+  "updateDate": 1694924138,
+  "customerCountry": "HK",
+  "followOption": "REQUEST",
+  "isBanned": false,
+  "requestStatus": "COMPLETED"
+}

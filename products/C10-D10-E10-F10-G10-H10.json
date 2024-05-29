@@ -1,0 +1,50 @@
+{
+  "objectID": "B08A7EC6-0CFB-4833-9667-1D89668092CF",
+  "type": "T1_PRODUCT",
+  "offerCount": 1,
+  "offers": [
+    {
+      "id": "23B377D5-805C-4844-B3B9-99F0CAC00AC4",
+      "isCheckout": true,
+      "storeId": "6396",
+      "storeName": "Manhattan",
+      "country": "JP",
+      "avatar": "https://file-user-profile-asset.everuts.com/sto-img/2cceaa20-bd7e-411e-8fa5-9e7cef2f822b.webp",
+      "currency": "JPY",
+      "productImage": "https://product-assets.everuts.com/store/5627/bb81dde-h-lohacoxu03001i20240514183444.jpeg",
+      "productName": "[數量限定]集中修護髮膜 10g x 8個",
+      "category": "E030030040001",
+      "sellingPrice": 10000,
+      "originalPrice": 200000,
+      "weight": 1
+    }
+  ],
+  "storeIdList": ["6396"],
+  "mainImage": "https://product-assets.everuts.com/store/5627/bb81dde-h-lohacoxu03001i20240514183444.jpeg",
+  "productName_en": "C10-D10-E10-F10-G10-H10",
+  "productName_zhhk": "[數量限定]集中修護髮膜 10g x 8個",
+  "categories_en": {
+    "lvl0": "Beauty & Fragrance",
+    "lvl1": "Beauty & Fragrance > Hair",
+    "lvl2": "Beauty & Fragrance > Hair > Hair Mask"
+  },
+  "categories_zhhk": {
+    "lvl0": "美妝及香水",
+    "lvl1": "美妝及香水 > 頭髮",
+    "lvl2": "美妝及香水 > 頭髮 > 髮膜"
+  },
+  "shippingCountry_en": "Japan",
+  "shippingCountry_zhhk": "日本",
+  "createDate": 1705459230,
+  "checkoutDate": 1705459230,
+  "updateDate": 1705459230,
+  "customerCountry": "HK",
+  "followOption": "BUY",
+  "isBanned": false,
+  "online": true,
+  "outOfStock": false,
+  "hasVariants": false,
+  "baseProductId": "BD5080B7-476D-4FD2-8DD3-92773FE7B1F1",
+  "brandName_zhhk": "CJ",
+  "brandName_en": "CJ"
+}

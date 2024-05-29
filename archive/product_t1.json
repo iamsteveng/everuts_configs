@@ -1,0 +1,42 @@
+{
+  "objectID": "3",
+  "type": "T1_PRODUCT",
+  "offerCount": 1,
+  "offers": {
+    "0": {
+      "id": "3-1",
+      "isCheckout": true,
+      "storeId": "1381",
+      "storeName": "shibainuzakkaya",
+      "storeCountry": "JP",
+      "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/b7f126e1-41a6-40bd-b811-0b52a1a91858.webp",
+      "productImage": "https://product-assets.everuts.com/store/1874/dbfba31-2df800-2024-05-13t170730.720.jpg",
+      "productName": "Swisse 輔酶Q10 150毫克",
+      "lineItemCount": 1
+    }
+  },
+  "storeIdList": ["1381"],
+  "mainImage": "https://product-assets.everuts.com/store/1874/dbfba31-2df800-2024-05-13t170730.720.jpg",
+  "productName_en": "Swisse Ultiboost Co-Enzyme Q10 150mg ",
+  "productName_zhhk": "Swisse 輔酶Q10 150毫克",
+  "createDate": 1715591318602,
+  "customerCountry": "HK",
+  "checkoutDate": null,
+  "followOption": "BUY",
+  "shippingCountry_en": "Japan",
+  "shippingCountry_zhhk": "日本",
+  "categories_en": {
+    "lvl0": "Health & Diet",
+    "lvl1": "Health & Diet > Supplements"
+  },
+  "categories_zhhk": {
+    "lvl0": "健康及保健產品",
+    "lvl1": "健康及保健產品 > 保健食品"
+  },
+  "isBanned": false,
+  "online": true,
+  "outOfStock": false,
+  "baseProductId": "6641d8960f8347bbe23ccc38",
+  "updateDate": 1715591318602,
+  "hasVariants": false
+}

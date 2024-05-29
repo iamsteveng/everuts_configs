@@ -1,0 +1,67 @@
+{
+  "objectID": "1",
+  "type": "T2_PRODUCT",
+  "offerCount": 3,
+  "lineItemCount": 2,
+  "offers": {
+    "0": {
+      "id": "1-1",
+      "isCheckout": true,
+      "storeId": "483",
+      "storeName": "Japanholic",
+      "storeCountry": "JP",
+      "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/e426a661-0243-47de-87a5-3045e4eb2230.webp",
+      "productImage": "https://product-assets.everuts.com/store/6172/21bb7ee-2th01.jpg",
+      "productName": "SU-ZI AS 快眠枕 2 [枕頭] (第2代)",
+      "lineItemCount": 2
+    },
+    "1": {
+      "id": "1-2",
+      "isCheckout": false,
+      "storeId": "1086",
+      "storeName": "姸媽韓國雜貨店",
+      "storeCountry": "KR",
+      "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/a27dd250-77cf-4ea8-972f-84cc0d90d079.webp",
+      "productImage": "https://product-assets.everuts.com/store/6172/21bb7ee-2th01.jpg",
+      "productName": "SU-ZI AS 快眠枕 2 [枕頭] (第2代)",
+      "lineItemCount": 2
+    },
+    "2": {
+      "id": "1-3",
+      "isCheckout": false,
+      "storeId": "6865",
+      "storeName": "三人一貓",
+      "storeCountry": "TW",
+      "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/6a53a710-3a2b-4b56-8354-d0943d588cfd.webp",
+      "productImage": "https://product-assets.everuts.com/store/6172/21bb7ee-2th01.jpg",
+      "productName": "SU-ZI AS 快眠枕 2 [枕頭] (第2代)",
+      "lineItemCount": 2
+    }
+  },
+  "storeIdList": ["483", "1086", "6865"],
+  "mainImage": "https://product-assets.everuts.com/store/6172/21bb7ee-2th01.jpg",
+  "productName_en": "SU-ZI AS 快眠枕 2 [枕頭] (第2代)",
+  "productName_zhhk": "SU-ZI AS 快眠枕 2 [枕頭] (第2代)",
+  "categories_en": {
+    "lvl0": "Health & Diet",
+    "lvl1": "Health & Diet > Personal & Healthcare Appliance",
+    "lvl2": "Health & Diet > Personal & Healthcare Appliance > Other Personal & Healthcare Appliance"
+  },
+  "categories_zhhk": {
+    "lvl0": "健康及保健產品",
+    "lvl1": "健康及保健產品 > 健康設備",
+    "lvl2": "健康及保健產品 > 健康設備 > 其它健康設備"
+  },
+  "shippingCountry_en": "Japan",
+  "shippingCountry_zhhk": "日本",
+  "createDate": 1715586909746,
+  "checkoutDate": 1715586909746,
+  "updateDate": 1715586909746,
+  "customerCountry": "HK",
+  "followOption": "BUY",
+  "isBanned": false,
+  "online": true,
+  "outOfStock": false,
+  "hasVariants": false,
+  "baseProductId": "663dd109c5de4405960da02e"
+}

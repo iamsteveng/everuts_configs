@@ -1,0 +1,62 @@
+{
+  "objectID": "03250A23-43F9-4776-8A32-361B2597D6EE",
+  "type": "T2_PRODUCT",
+  "offerCount": 2,
+  "lineItemCount": 2,
+  "offers": [
+    {
+      "id": "E5F0CC51-46DF-41C4-9BFE-59B423F8860A",
+      "isCheckout": true,
+      "lineItemCount": 2,
+      "storeId": "483",
+      "storeName": "Japanholic",
+      "country": "JP",
+      "avatar": "https://file-user-profile-asset.everuts.com/sto-img/e426a661-0243-47de-87a5-3045e4eb2230.webp",
+      "currency": "JPY",
+      "productImage": "https://product-assets.everuts.com/store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png",
+      "productName": "Ottogi 大邱辣牛肉湯 500g X 3",
+      "category": "E060000000000",
+      "sellingPrice": 10000,
+      "weight": 1
+    },
+    {
+      "id": "99FBBD89-DC78-43DD-B23E-EE2A4C886E80",
+      "isCheckout": false,
+      "lineItemCount": 2,
+      "storeId": "1086",
+      "storeName": "姸媽韓國雜貨店",
+      "country": "KR",
+      "avatar": "https://file-user-profile-asset.everuts.com/sto-img/a27dd250-77cf-4ea8-972f-84cc0d90d079.webp",
+      "currency": "KRW",
+      "productImage": "https://product-assets.everuts.com/store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png",
+      "productName": "Ottogi 大邱辣牛肉湯 500g X 3",
+      "category": "E060000000000",
+      "sellingPrice": 10000000,
+      "weight": 1
+    }
+  ],
+  "storeIdList": ["483", "1086"],
+  "mainImage": "https://product-assets.everuts.com/store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png",
+  "productName_en": "C3-D3-E2-F2-G2-H2",
+  "productName_zhhk": "Ottogi 大邱辣牛肉湯 500g X 3",
+  "categories_en": {
+    "lvl0": "Food & Drink"
+  },
+  "categories_zhhk": {
+    "lvl0": "食品及飲料"
+  },
+  "shippingCountry_en": "Japan",
+  "shippingCountry_zhhk": "日本",
+  "createDate": 1715304422,
+  "checkoutDate": 1715304422,
+  "updateDate": 1715304422,
+  "customerCountry": "HK",
+  "followOption": "REQUEST",
+  "isBanned": false,
+  "online": true,
+  "outOfStock": false,
+  "hasVariants": false,
+  "baseProductId": "52ACBB34-1CE3-49D9-A2EE-9D198FF2E665",
+  "brandName_zhhk": "CJ",
+  "brandName_en": "CJ"
+}

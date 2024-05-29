@@ -1,0 +1,27 @@
+{
+  "objectID": "4319",
+  "storeId": "4319",
+  "storeName": "TT泰國代購",
+  "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/85a86ec1-f3f7-4b9d-8be3-878b8cd4da52.webp",
+  "currentLocationCode": "TH#BANGKOK",
+  "currentLocation_zhhk": "曼谷",
+  "currentLocation_en": "Bangkok",
+  "currentCountryCode": "TH",
+  "currentCountry_zhhk": "泰國",
+  "currentCountry_en": "Thailand",
+  "_geoloc": {
+    "lat": 13.75,
+    "lng": 100.5167
+  },
+  "storeDescription": "Store 4319 Description",
+  "lastOfferDate": 1710991151,
+  "tier": 1,
+  "rating": 4.6,
+  "noOfReviews": 80,
+  "noOfOrders": 10,
+  "createDate": 1696994346,
+  "productImages": [
+    "store/5852/c53f8c0-5copy.jpeg",
+    "store/5627/bb81dde-h-lohacoxu03001i20240514183444.jpeg"
+  ]
+}
