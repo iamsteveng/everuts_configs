@@ -36,6 +36,29 @@
     }
 ]
 
+data_shippingCountries = [
+    {
+        "shippingCountry": "JP",
+        "shippingCountry_zhhk": "日本",
+        "shippingCountry_en": "Japan",
+    },
+    {
+        "shippingCountry": "KR",
+        "shippingCountry_zhhk": "韓國",
+        "shippingCountry_en": "Korea",
+    },
+    {
+        "shippingCountry": "TH",
+        "shippingCountry_zhhk": "泰國",
+        "shippingCountry_en": "Thailand",
+    },
+    {
+        "shippingCountry": "TW",
+        "shippingCountry_zhhk": "台灣",
+        "shippingCountry_en": "Taiwan",
+    }
+]
+
 data_products = [
     {
         "productImage": "https://product-assets.everuts.com/store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png",
