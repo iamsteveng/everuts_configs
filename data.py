@@ -41,21 +41,25 @@ data_shippingCountries = [
         "shippingCountry": "JP",
         "shippingCountry_zhhk": "日本",
         "shippingCountry_en": "Japan",
+        "shippingCountry_zhcn": "日本",
     },
     {
         "shippingCountry": "KR",
         "shippingCountry_zhhk": "韓國",
         "shippingCountry_en": "Korea",
+        "shippingCountry_zhcn": "韩国",
     },
     {
         "shippingCountry": "TH",
         "shippingCountry_zhhk": "泰國",
         "shippingCountry_en": "Thailand",
+        "shippingCountry_zhcn": "泰国",
     },
     {
         "shippingCountry": "TW",
         "shippingCountry_zhhk": "台灣",
         "shippingCountry_en": "Taiwan",
+        "shippingCountry_zhcn": "台湾",
     }
 ]
 
