@@ -21,7 +21,8 @@
   "noOfOrders": 6,
   "createDate": 1695957705,
   "productImages": [
-    "store/5627/bb81dde-h-lohacoxu03001i20240514183444.jpeg",
-    "store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png"
-  ]
+    "https://product-assets.everuts.com/store/5627/bb81dde-h-lohacoxu03001i20240514183444.jpeg",
+    "https://product-assets.everuts.com/store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png"
+  ],
+  "status": "ONLINE"
 }
