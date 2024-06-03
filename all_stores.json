@@ -1,0 +1,110 @@
+[
+  {
+    "objectID": "1086",
+    "storeId": "1086",
+    "storeName": "姸媽韓國雜貨店",
+    "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/a27dd250-77cf-4ea8-972f-84cc0d90d079.webp",
+    "currentLocationCode": "KR#SEOUL",
+    "currentLocation_zhhk": "首爾特別市",
+    "currentLocation_en": "Seoul",
+    "currentCountryCode": "KR",
+    "currentCountry_zhhk": "韓國",
+    "currentCountry_en": "Korea",
+    "_geoloc": {
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    "storeDescription": "Store 1086 Description",
+    "lastOfferDate": 1709608317,
+    "tier": 2,
+    "rating": 4.7,
+    "noOfReviews": 90,
+    "noOfOrders": 100,
+    "createDate": 1699758735,
+    "productImages": [
+      "store/7424/2bafd3a-screenshot2024-05-27at5.58.56pm.png",
+      "store/4986/7772a6a-2024-05-2512.53.14.png"
+    ]
+  },
+  {
+    "objectID": "4319",
+    "storeId": "4319",
+    "storeName": "TT泰國代購",
+    "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/85a86ec1-f3f7-4b9d-8be3-878b8cd4da52.webp",
+    "currentLocationCode": "TH#BANGKOK",
+    "currentLocation_zhhk": "曼谷",
+    "currentLocation_en": "Bangkok",
+    "currentCountryCode": "TH",
+    "currentCountry_zhhk": "泰國",
+    "currentCountry_en": "Thailand",
+    "_geoloc": {
+      "lat": 13.75,
+      "lng": 100.5167
+    },
+    "storeDescription": "Store 4319 Description",
+    "lastOfferDate": 1710991151,
+    "tier": 1,
+    "rating": 4.6,
+    "noOfReviews": 80,
+    "noOfOrders": 10,
+    "createDate": 1696994346,
+    "productImages": [
+      "store/5852/c53f8c0-5copy.jpeg",
+      "store/5627/bb81dde-h-lohacoxu03001i20240514183444.jpeg"
+    ]
+  },
+  {
+    "objectID": "441",
+    "storeId": "441",
+    "storeName": "Coco Hon-LoveToBuy喜歡買",
+    "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/2fc6ce97-8e59-4891-b2fe-a326dd2a8646.webp",
+    "currentLocationCode": "TW#TAIPEI",
+    "currentLocation_zhhk": "臺北市",
+    "currentLocation_en": "Taipei",
+    "currentCountryCode": "TW",
+    "currentCountry_zhhk": "台灣",
+    "currentCountry_en": "Taiwan",
+    "_geoloc": {
+      "lat": 25.032,
+      "lng": 121.5654
+    },
+    "storeDescription": "Store 441 Description",
+    "lastOfferDate": 1708399300,
+    "tier": 0,
+    "rating": 4.0,
+    "noOfReviews": 5,
+    "noOfOrders": 6,
+    "createDate": 1695957705,
+    "productImages": [
+      "store/5627/bb81dde-h-lohacoxu03001i20240514183444.jpeg",
+      "store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png"
+    ]
+  },
+  {
+    "objectID": "483",
+    "storeId": "483",
+    "storeName": "Japanholic",
+    "storeAvatar": "https://file-user-profile-asset.everuts.com/sto-img/e426a661-0243-47de-87a5-3045e4eb2230.webp",
+    "currentLocationCode": "JP#CHIBA",
+    "currentLocation_zhhk": "千葉縣",
+    "currentLocation_en": "Chiba",
+    "currentCountryCode": "JP",
+    "currentCountry_zhhk": "日本",
+    "currentCountry_en": "Japan",
+    "_geoloc": {
+      "lat": 35.625063,
+      "lng": 140.068872
+    },
+    "storeDescription": "Store 483 Description",
+    "lastOfferDate": 1707015133,
+    "tier": 3,
+    "rating": 4.8,
+    "noOfReviews": 100,
+    "noOfOrders": 1000,
+    "createDate": 1693277598,
+    "productImages": [
+      "store/7424/7bb77bc-screenshot2024-05-27at6.00.47pm.png",
+      "store/7424/2bafd3a-screenshot2024-05-27at5.58.56pm.png"
+    ]
+  }
+]
