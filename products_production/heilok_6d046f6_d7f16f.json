@@ -1,0 +1,51 @@
+{
+  "objectID": "heilok_6d046f6_d7f16f",
+  "skuId": "heilok_6d046f6_d7f16f",
+  "type": "T1_PRODUCT",
+  "offerCount": 1,
+  "offers": [
+    {
+      "id": "heilok_6d046f6_d7f16f",
+      "isCheckout": true,
+      "storeId": "1874",
+      "storeName": "Heilok Life Style Online Shop",
+      "shippingCountry": "JP",
+      "shippingCountry_zhhk": "日本",
+      "shippingCountry_en": "Japan",
+      "avatar": "https://file-user-profile-asset.everuts.com/sto-img/2fd16083-94a8-4ab8-a327-d786252c01ea",
+      "currency": "JPY",
+      "productImage": "https://product-assets.everuts.com/store/1874/566a882-hismilepapwhiteningtoothpaste63g.jpg",
+      "productName": "Hismile PAP + Whitening Toothpaste 63g",
+      "category": "E030030040001",
+      "sellingPrice": 10000,
+      "originalPrice": 200000,
+      "weight": 1
+    }
+  ],
+  "storeIdList": ["6396"],
+  "mainImage": "https://product-assets.everuts.com/store/1874/566a882-hismilepapwhiteningtoothpaste63g.jpg",
+  "productName_en": "Hismile PAP + Whitening Toothpaste 63g",
+  "productName_zhhk": "Hismile PAP+ 美白牙膏 63g",
+  "categories_en": {
+    "lvl0": "Beauty & Fragrance",
+    "lvl1": "Beauty & Fragrance > Hair",
+    "lvl2": "Beauty & Fragrance > Hair > Hair Mask"
+  },
+  "categories_zhhk": {
+    "lvl0": "美妝及香水",
+    "lvl1": "美妝及香水 > 頭髮",
+    "lvl2": "美妝及香水 > 頭髮 > 髮膜"
+  },
+  "createDate": 1705459230,
+  "checkoutDate": 1705459230,
+  "updateDate": 1705459230,
+  "customerCountry": "HK",
+  "followOption": "BUY",
+  "isBanned": false,
+  "online": true,
+  "outOfStock": false,
+  "hasVariants": false,
+  "baseProductId": "666bc316aed0e57bbe14450e",
+  "brandName_zhhk": "HiSmile",
+  "brandName_en": "HiSmile"
+}
