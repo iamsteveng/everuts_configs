@@ -4,6 +4,12 @@
 jq -s . ./products/*.json > all_products.json
 ```
 
+## Combine all scheme files to single one array file
+
+```
+jq -s 'add' ./matching/*.json > all_schemes.json
+```
+
 ## Update Matching RAS config
 
 Development
