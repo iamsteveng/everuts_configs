@@ -1,0 +1,36 @@
+[
+  {
+    "CountryCode": "NL",
+    "Seq": 1,
+    "Id": "8359F09A-DE1B-4185-B0BD-A521746700C7",
+    "AssignMode": "MANUAL",
+    "DurationMinute": 5,
+    "EnterConditions": ["ADMIN", "APPOINTED"],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "NL",
+    "Seq": 2,
+    "Id": "AFBAA9AE-05E5-4900-819F-13546B290764",
+    "AssignMode": "AUTO",
+    "DurationMinute": 5,
+    "EnterConditions": ["NORMAL"],
+    "ExtendConditions": [
+      { "Numbers": 1, "Levels": ["NIL", "LEVEL_1", "LEVEL_2", "LEVEL_3"] },
+      { "Numbers": 1, "Levels": ["LEVEL_1", "LEVEL_2", "LEVEL_3"] }
+    ],
+    "NumLevelNil": 1,
+    "NumLevel1": 1,
+    "NumLevel2": 1,
+    "NumLevel3": 1
+  },
+  {
+    "CountryCode": "NL",
+    "Seq": 3,
+    "Id": "4AE838F0-40B0-46FB-9783-E54777DE2DD0",
+    "AssignMode": "OPEN",
+    "DurationMinute": 5,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]
