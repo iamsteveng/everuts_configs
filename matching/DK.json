@@ -14,7 +14,7 @@
     "Id": "B98AFCBF-A7DC-46C0-86A5-3A47FB7F3C39",
     "AssignMode": "AUTO",
     "DurationMinute": 5,
-    "EnterConditions": ["NORMAL"],
+    "EnterConditions": ["NORMAL", "APPOINTED"],
     "ExtendConditions": [
       { "Numbers": 1, "Levels": ["NIL", "LEVEL_1", "LEVEL_2", "LEVEL_3"] },
       { "Numbers": 1, "Levels": ["LEVEL_1", "LEVEL_2", "LEVEL_3"] }

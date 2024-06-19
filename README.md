@@ -15,11 +15,11 @@ jq -s 'add' ./matching/*.json > all_schemes.json
 Development
 
 ```
-npx @offbeattech/dynamodb-data-loader --table "DevMatchingRasScheme" --path "matching/FR.json"
+npx @offbeattech/dynamodb-data-loader --table "DevMatchingRasScheme" --path "all_schemes.json"
 ```
 
 Test
 
 ```
-npx @offbeattech/dynamodb-data-loader --table "TestMatchingRasScheme" --path "matching/FR.json"
+npx @offbeattech/dynamodb-data-loader --table "TestMatchingRasScheme" --path "all_schemes.json"
 ```

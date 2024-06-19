@@ -18,7 +18,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -77,7 +78,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -136,7 +138,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -195,7 +198,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -254,7 +258,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -313,7 +318,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -372,7 +378,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -431,7 +438,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -490,7 +498,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -549,7 +558,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -608,7 +618,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -667,7 +678,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -726,7 +738,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -785,7 +798,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -844,7 +858,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 10,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -903,7 +918,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -962,7 +978,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1021,7 +1038,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1080,7 +1098,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1139,7 +1158,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1198,7 +1218,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1257,7 +1278,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1316,7 +1338,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1375,7 +1398,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1434,7 +1458,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1493,7 +1518,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1552,7 +1578,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1611,7 +1638,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1668,13 +1696,14 @@
     "Seq": 2,
     "Id": "82EB6A34-E491-4307-AD6B-8351F7D58224",
     "AssignMode": "AUTO",
-    "DurationMinute": 5,
+    "DurationMinute": 10,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
-        "Numbers": 1,
+        "Numbers": 2,
         "Levels": [
           "NIL",
           "LEVEL_1",
@@ -1683,7 +1712,7 @@
         ]
       },
       {
-        "Numbers": 1,
+        "Numbers": 2,
         "Levels": [
           "LEVEL_1",
           "LEVEL_2",
@@ -1692,7 +1721,7 @@
       }
     ],
     "NumLevelNil": 1,
-    "NumLevel1": 1,
+    "NumLevel1": 2,
     "NumLevel2": 1,
     "NumLevel3": 1
   },
@@ -1701,7 +1730,7 @@
     "Seq": 3,
     "Id": "0608A6E3-8BA4-49B4-B066-D13D03AEE179",
     "AssignMode": "OPEN",
-    "DurationMinute": 5,
+    "DurationMinute": 60,
     "EnterConditions": [
       "ADMIN",
       "APPOINTED",
@@ -1729,7 +1758,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
@@ -1788,7 +1818,8 @@
     "AssignMode": "AUTO",
     "DurationMinute": 5,
     "EnterConditions": [
-      "NORMAL"
+      "NORMAL",
+      "APPOINTED"
     ],
     "ExtendConditions": [
       {
