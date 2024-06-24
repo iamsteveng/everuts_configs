@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "CZ",
+    "Seq": 3,
+    "Id": "6ABEA3ED-3723-4E7E-B8F9-0ECB52D6FE39",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

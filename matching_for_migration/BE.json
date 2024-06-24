@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "BE",
+    "Seq": 3,
+    "Id": "49B328B3-B6BC-467C-8E72-466DAC7AD533",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

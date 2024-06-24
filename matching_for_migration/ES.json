@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "ES",
+    "Seq": 3,
+    "Id": "B5A488F5-31A1-4F3D-BBDD-73C1C9C0EABA",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "TH",
+    "Seq": 3,
+    "Id": "BD6E46BE-610D-4129-9FFA-8A8084CD23E0",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

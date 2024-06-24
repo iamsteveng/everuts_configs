@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "SG",
+    "Seq": 3,
+    "Id": "63998D54-14EC-423C-9A0D-C7C2BCC99060",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

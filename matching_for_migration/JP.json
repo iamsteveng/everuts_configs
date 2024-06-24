@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "JP",
+    "Seq": 3,
+    "Id": "E8ED295D-40E4-4F83-A387-BFA0F6BFDA36",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

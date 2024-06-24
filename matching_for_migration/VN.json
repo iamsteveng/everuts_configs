@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "VN",
+    "Seq": 3,
+    "Id": "37CE3E5B-9839-4E24-B741-C66606619FD4",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

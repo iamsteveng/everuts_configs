@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "GB",
+    "Seq": 3,
+    "Id": "1690D82F-6583-48C1-833B-3F3F226A80AE",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

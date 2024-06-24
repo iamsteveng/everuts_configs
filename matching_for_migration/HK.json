@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "HK",
+    "Seq": 3,
+    "Id": "84BEDBF4-E98A-44D7-BE9D-7F674E0423EB",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "PL",
+    "Seq": 3,
+    "Id": "42A3AE3D-4962-40D5-A6E0-4CA7AAD610ED",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

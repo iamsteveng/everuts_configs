@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "NL",
+    "Seq": 3,
+    "Id": "4AE838F0-40B0-46FB-9783-E54777DE2DD0",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

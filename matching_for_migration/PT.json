@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "PT",
+    "Seq": 3,
+    "Id": "B6315271-2C2B-466E-8941-542137E69C60",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

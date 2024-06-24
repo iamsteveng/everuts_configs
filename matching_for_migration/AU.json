@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "AU",
+    "Seq": 3,
+    "Id": "05F4D771-9BDA-4FD9-8899-C1BD9D0812AC",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

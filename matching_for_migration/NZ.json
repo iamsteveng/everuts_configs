@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": "NZ",
+    "Seq": 3,
+    "Id": "CB34CFB6-B952-4B6F-B308-7BB40EFFC23F",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]
