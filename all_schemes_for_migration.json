@@ -1,0 +1,436 @@
+[
+  {
+    "CountryCode": "AE",
+    "Seq": 1,
+    "Id": "B2605FA3-35BB-4C2D-A9FD-07EF150FC58B",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "AU",
+    "Seq": 1,
+    "Id": "05F4D771-9BDA-4FD9-8899-C1BD9D0812AC",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "BE",
+    "Seq": 1,
+    "Id": "49B328B3-B6BC-467C-8E72-466DAC7AD533",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "CA",
+    "Seq": 1,
+    "Id": "7582BF70-6B38-4BB3-8734-5259899D1DBE",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "CH",
+    "Seq": 1,
+    "Id": "BE84A8F9-1B07-4800-8D50-E3ED5D6578A6",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "CZ",
+    "Seq": 1,
+    "Id": "6ABEA3ED-3723-4E7E-B8F9-0ECB52D6FE39",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "DE",
+    "Seq": 1,
+    "Id": "564772C9-72F7-4C74-8943-72B5BC55A438",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "DK",
+    "Seq": 1,
+    "Id": "980FA34C-13B1-4481-8AA1-86A688CCEA85",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "ES",
+    "Seq": 1,
+    "Id": "B5A488F5-31A1-4F3D-BBDD-73C1C9C0EABA",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "FR",
+    "Seq": 1,
+    "Id": "0012E815-D4A7-4B2A-8B37-9EB416EE2120",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "GB",
+    "Seq": 1,
+    "Id": "1690D82F-6583-48C1-833B-3F3F226A80AE",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "HK",
+    "Seq": 1,
+    "Id": "84BEDBF4-E98A-44D7-BE9D-7F674E0423EB",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "IS",
+    "Seq": 1,
+    "Id": "AC51E9DE-B40E-4F53-A772-C398362FB5BA",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "IT",
+    "Seq": 1,
+    "Id": "97164DEF-E530-4D47-B5EB-794F9ABAB263",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "JP",
+    "Seq": 1,
+    "Id": "E8ED295D-40E4-4F83-A387-BFA0F6BFDA36",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "KR",
+    "Seq": 1,
+    "Id": "F401F2F2-21E1-4DC2-8EB7-AE3A746C9AE5",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "MO",
+    "Seq": 1,
+    "Id": "1554A517-E918-4EB5-877C-EF4650B5F072",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "MY",
+    "Seq": 1,
+    "Id": "F8B75E0E-C8E3-42CE-BBC2-4DCE37238D89",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "NL",
+    "Seq": 1,
+    "Id": "4AE838F0-40B0-46FB-9783-E54777DE2DD0",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "NO",
+    "Seq": 1,
+    "Id": "AA582B54-9C6D-44E7-8879-DEA660D65FE9",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "NZ",
+    "Seq": 1,
+    "Id": "CB34CFB6-B952-4B6F-B308-7BB40EFFC23F",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "PH",
+    "Seq": 1,
+    "Id": "23127106-9992-4D97-B962-B3BED9D102CE",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "PL",
+    "Seq": 1,
+    "Id": "42A3AE3D-4962-40D5-A6E0-4CA7AAD610ED",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "PT",
+    "Seq": 1,
+    "Id": "B6315271-2C2B-466E-8941-542137E69C60",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "SE",
+    "Seq": 1,
+    "Id": "3B2F279D-C2BE-4C8F-A2C9-329286BA931E",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "SG",
+    "Seq": 1,
+    "Id": "63998D54-14EC-423C-9A0D-C7C2BCC99060",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "TH",
+    "Seq": 1,
+    "Id": "BD6E46BE-610D-4129-9FFA-8A8084CD23E0",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "TR",
+    "Seq": 1,
+    "Id": "B4C5CF36-20BA-4D88-94B6-6C1FC809E3CB",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "TW",
+    "Seq": 1,
+    "Id": "0608A6E3-8BA4-49B4-B066-D13D03AEE179",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "US",
+    "Seq": 1,
+    "Id": "17888397-6519-4A63-98A0-E0CEA4F81081",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "VN",
+    "Seq": 1,
+    "Id": "37CE3E5B-9839-4E24-B741-C66606619FD4",
+    "AssignMode": "OPEN",
+    "DurationMinute": 8640,
+    "EnterConditions": [
+      "ADMIN",
+      "APPOINTED",
+      "NORMAL",
+      "UNENGAGED"
+    ],
+    "ExtendConditions": []
+  }
+]
