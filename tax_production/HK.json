@@ -1,0 +1,8 @@
+[
+  {
+    "key": "HK",
+    "subkey": "Settings",
+    "consumptionTax": { "enabled": false },
+    "importTax": { "enabled": false }
+  }
+]
