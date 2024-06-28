@@ -881,7 +881,7 @@
       }
     ],
     "NumLevelNil": 1,
-    "NumLevel1": 1,
+    "NumLevel1": 5,
     "NumLevel2": 1,
     "NumLevel3": 1
   },
@@ -890,7 +890,7 @@
     "Seq": 3,
     "Id": "E8ED295D-40E4-4F83-A387-BFA0F6BFDA36",
     "AssignMode": "OPEN",
-    "DurationMinute": 5,
+    "DurationMinute": 60,
     "EnterConditions": [
       "ADMIN",
       "APPOINTED",
