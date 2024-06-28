@@ -4,7 +4,7 @@
     "Seq": 1,
     "Id": "F0CA95EE-39C5-43A5-8CE7-1A76201B277F",
     "AssignMode": "MANUAL",
-    "DurationMinute": 5,
+    "DurationMinute": 1440,
     "EnterConditions": ["ADMIN", "APPOINTED"],
     "ExtendConditions": []
   },
@@ -13,14 +13,14 @@
     "Seq": 2,
     "Id": "9FC035C2-F298-49A2-BFA3-3DEFE2F4811C",
     "AssignMode": "AUTO",
-    "DurationMinute": 5,
+    "DurationMinute": 1440,
     "EnterConditions": ["NORMAL", "APPOINTED"],
     "ExtendConditions": [
-      { "Numbers": 1, "Levels": ["NIL", "LEVEL_1", "LEVEL_2", "LEVEL_3"] },
-      { "Numbers": 1, "Levels": ["LEVEL_1", "LEVEL_2", "LEVEL_3"] }
+      { "Numbers": 3, "Levels": ["NIL", "LEVEL_1", "LEVEL_2", "LEVEL_3"] },
+      { "Numbers": 2, "Levels": ["LEVEL_1", "LEVEL_2", "LEVEL_3"] }
     ],
-    "NumLevelNil": 1,
-    "NumLevel1": 1,
+    "NumLevelNil": 2,
+    "NumLevel1": 2,
     "NumLevel2": 1,
     "NumLevel3": 1
   },
@@ -29,7 +29,7 @@
     "Seq": 3,
     "Id": "B6315271-2C2B-466E-8941-542137E69C60",
     "AssignMode": "OPEN",
-    "DurationMinute": 5,
+    "DurationMinute": 7200,
     "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
     "ExtendConditions": []
   }
