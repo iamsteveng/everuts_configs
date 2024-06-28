@@ -1,0 +1,65 @@
+[
+  {
+    "key": "ECoinsSpendingControl",
+    "subkey": "HK",
+    "value": {
+      "control": [
+        {
+          "eCoins": 20,
+          "spending": 199.99
+        },
+        {
+          "eCoins": 100,
+          "spending": 499.99
+        },
+        {
+          "eCoins": 200,
+          "spending": 999.99
+        }
+      ],
+      "currency": "HKD"
+    }
+  },
+  {
+    "key": "ECoinsSpendingControl",
+    "subkey": "SG",
+    "value": {
+      "control": [
+        {
+          "eCoins": 4,
+          "spending": 39.99
+        },
+        {
+          "eCoins": 20,
+          "spending": 99.99
+        },
+        {
+          "eCoins": 40,
+          "spending": 199.99
+        }
+      ],
+      "currency": "SGD"
+    }
+  },
+  {
+    "key": "ECoinsSpendingControl",
+    "subkey": "TH",
+    "value": {
+      "control": [
+        {
+          "eCoins": 20,
+          "spending": 199.99
+        },
+        {
+          "eCoins": 100,
+          "spending": 499.99
+        },
+        {
+          "eCoins": 200,
+          "spending": 999.99
+        }
+      ],
+      "currency": "HKD"
+    }
+  }
+]

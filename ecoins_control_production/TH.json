@@ -1,0 +1,12 @@
+{
+  "key": "ECoinsSpendingControl",
+  "subkey": "TH",
+  "value": {
+    "control": [
+      { "eCoins": 20, "spending": 199.99 },
+      { "eCoins": 100, "spending": 499.99 },
+      { "eCoins": 200, "spending": 999.99 }
+    ],
+    "currency": "HKD"
+  }
+}

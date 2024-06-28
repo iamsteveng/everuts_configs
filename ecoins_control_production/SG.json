@@ -1,0 +1,12 @@
+{
+  "key": "ECoinsSpendingControl",
+  "subkey": "SG",
+  "value": {
+    "control": [
+      { "eCoins": 4, "spending": 39.99 },
+      { "eCoins": 20, "spending": 99.99 },
+      { "eCoins": 40, "spending": 199.99 }
+    ],
+    "currency": "SGD"
+  }
+}
