@@ -1,0 +1,36 @@
+[
+  {
+    "CountryCode": "DK",
+    "Seq": 1,
+    "Id": "54CF148C-A01C-4EE1-8791-4808D3E12A06",
+    "AssignMode": "MANUAL",
+    "DurationMinute": 5,
+    "EnterConditions": ["ADMIN", "APPOINTED"],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "DK",
+    "Seq": 2,
+    "Id": "B98AFCBF-A7DC-46C0-86A5-3A47FB7F3C39",
+    "AssignMode": "AUTO",
+    "DurationMinute": 5,
+    "EnterConditions": ["NORMAL", "APPOINTED"],
+    "ExtendConditions": [
+      { "Numbers": 1, "Levels": ["NIL", "LEVEL_1", "LEVEL_2", "LEVEL_3"] },
+      { "Numbers": 1, "Levels": ["LEVEL_1", "LEVEL_2", "LEVEL_3"] }
+    ],
+    "NumLevelNil": 1,
+    "NumLevel1": 1,
+    "NumLevel2": 1,
+    "NumLevel3": 1
+  },
+  {
+    "CountryCode": "DK",
+    "Seq": 3,
+    "Id": "980FA34C-13B1-4481-8AA1-86A688CCEA85",
+    "AssignMode": "OPEN",
+    "DurationMinute": 5,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]

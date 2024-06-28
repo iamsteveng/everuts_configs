@@ -1,0 +1,36 @@
+[
+  {
+    "CountryCode": "JP",
+    "Seq": 1,
+    "Id": "F494E123-F485-4964-9F61-7C79A9FABF32",
+    "AssignMode": "MANUAL",
+    "DurationMinute": 5,
+    "EnterConditions": ["ADMIN", "APPOINTED"],
+    "ExtendConditions": []
+  },
+  {
+    "CountryCode": "JP",
+    "Seq": 2,
+    "Id": "D6A0EB9B-D6C1-4EAE-958C-210930345676",
+    "AssignMode": "AUTO",
+    "DurationMinute": 5,
+    "EnterConditions": ["NORMAL", "APPOINTED"],
+    "ExtendConditions": [
+      { "Numbers": 1, "Levels": ["NIL", "LEVEL_1", "LEVEL_2", "LEVEL_3"] },
+      { "Numbers": 1, "Levels": ["LEVEL_1", "LEVEL_2", "LEVEL_3"] }
+    ],
+    "NumLevelNil": 1,
+    "NumLevel1": 5,
+    "NumLevel2": 1,
+    "NumLevel3": 1
+  },
+  {
+    "CountryCode": "JP",
+    "Seq": 3,
+    "Id": "E8ED295D-40E4-4F83-A387-BFA0F6BFDA36",
+    "AssignMode": "OPEN",
+    "DurationMinute": 60,
+    "EnterConditions": ["ADMIN", "APPOINTED", "NORMAL", "UNENGAGED"],
+    "ExtendConditions": []
+  }
+]
