@@ -1564,7 +1564,7 @@
     "Seq": 1,
     "Id": "98D98C35-78BA-4DE3-A24E-C49CEA39F157",
     "AssignMode": "MANUAL",
-    "DurationMinute": 5,
+    "DurationMinute": 15,
     "EnterConditions": [
       "ADMIN",
       "APPOINTED"
@@ -1576,7 +1576,7 @@
     "Seq": 2,
     "Id": "386A9723-AA1A-452A-BA5C-02A17E6B84C1",
     "AssignMode": "AUTO",
-    "DurationMinute": 5,
+    "DurationMinute": 15,
     "EnterConditions": [
       "NORMAL",
       "APPOINTED"
@@ -1610,7 +1610,7 @@
     "Seq": 3,
     "Id": "BD6E46BE-610D-4129-9FFA-8A8084CD23E0",
     "AssignMode": "OPEN",
-    "DurationMinute": 5,
+    "DurationMinute": 15,
     "EnterConditions": [
       "ADMIN",
       "APPOINTED",
