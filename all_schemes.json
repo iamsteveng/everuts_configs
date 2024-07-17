@@ -1576,7 +1576,7 @@
     "Seq": 2,
     "Id": "386A9723-AA1A-452A-BA5C-02A17E6B84C1",
     "AssignMode": "AUTO",
-    "DurationMinute": 15,
+    "DurationMinute": 1440,
     "EnterConditions": [
       "NORMAL",
       "APPOINTED"
