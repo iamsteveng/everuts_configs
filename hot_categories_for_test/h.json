@@ -6,7 +6,7 @@
         "zh-HK": "Chanel",
         "zh-CN": "Chanel"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everutm.link/hot-categories/images/hotCat_chanel.png",
+      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_chanel.png",
       "level": 1,
       "categoryFacetEn": "Luxury > Chanel"
     },
@@ -16,7 +16,7 @@
         "zh-HK": "杯",
         "zh-CN": "杯"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everutm.link/hot-categories/images/hotCat_cycling.png",
+      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_cycling.png",
       "level": 2,
       "categoryFacetEn": "Home & Kitchen > Tableware & Supplies > Drinkware"
     },
@@ -26,7 +26,7 @@
         "zh-HK": "露營用品",
         "zh-CN": "露營用品"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everutm.link/hot-categories/images/hotCat_fineWatches.png",
+      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_fineWatches.png",
       "level": 1,
       "categoryFacetEn": "Sports & Outdoors > Camping & Glamping"
     },
@@ -36,7 +36,7 @@
         "zh-HK": "女士服飾",
         "zh-CN": "女士服飾"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everutm.link/hot-categories/images/hotCat_fragrance.png",
+      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_fragrance.png",
       "level": 0,
       "categoryFacetEn": "Women's Fashion"
     },
@@ -46,7 +46,7 @@
         "zh-HK": "男士T恤",
         "zh-CN": "男士T恤"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everutm.link/hot-categories/images/hotCat_goyard.png",
+      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_goyard.png",
       "level": 2,
       "categoryFacetEn": "Men's Fashion > Tops > T-Shirt"
     },
@@ -56,7 +56,7 @@
         "zh-HK": "蠟燭製作",
         "zh-CN": "蠟燭製作"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everutm.link/hot-categories/images/hotCat_hermes.png",
+      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_hermes.png",
       "level": 2,
       "categoryFacetEn": "Hobbies > Arts & Crafts > Candle Making"
     },
@@ -66,7 +66,7 @@
         "zh-HK": "食品",
         "zh-CN": "食品"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everutm.link/hot-categories/images/hotCat_supplements.png",
+      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_supplements.png",
       "level": 1,
       "categoryFacetEn": "Food & Drink > Food"
     },
@@ -76,7 +76,7 @@
         "zh-HK": "興趣及愛好",
         "zh-CN": "興趣及愛好"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everutm.link/hot-categories/images/hotCat_toysfigure.png",
+      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_toysfigure.png",
       "level": 0,
       "categoryFacetEn": "Hobbies"
     }
