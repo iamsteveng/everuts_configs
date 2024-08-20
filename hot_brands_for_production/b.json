@@ -1,0 +1,100 @@
+{
+  "hotBrands": [
+    {
+      "brandCode": "Hermes",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_HERMES_FR.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_HERMES_FR.jpg",
+      "keywordSearch": "HERMES"
+    },
+    {
+      "brandCode": "Goyard",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_GOYARD_FR.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_GOYARD_FR.jpg",
+      "keywordSearch": "GOYARD"
+    },
+    {
+      "brandCode": "Medicube",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_MEDICUBE.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_MEDICUBE.jpg",
+      "keywordSearch": "Medicube"
+    },
+    {
+      "brandCode": "Clé de Peau",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_Cle_de_Peau_Beaute.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_Cle_de_Peau_Beaute.jpg",
+      "keywordSearch": "Cle de peau"
+    },
+    {
+      "brandCode": "DECORTÉ",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_DECORTE.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_DECORTE.jpg",
+      "keywordSearch": "decorte"
+    },
+    {
+      "brandCode": "SUQQU",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_SUQQU.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_SUQQU.jpg",
+      "keywordSearch": "SUQQU"
+    },
+    {
+      "brandCode": "TIR TIR",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_TIRTIR.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_TIRTIR.jpg",
+      "keywordSearch": "TIRTIR"
+    },
+    {
+      "brandCode": "Mardi Mercredi",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_Mardi_Mercredi.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_Mardi_Mercredi.jpg",
+      "keywordSearch": "Mardi Mercredi"
+    },
+    {
+      "brandCode": "EMIS",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_EMIS.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_EMIS.jpg",
+      "keywordSearch": "EMIS"
+    },
+    {
+      "brandCode": "GRL",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_GRL.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_GRL.jpg",
+      "keywordSearch": "GRL"
+    },
+    {
+      "brandCode": "Beams",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_BEAMS.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_BEAMS.jpg",
+      "keywordSearch": "BEAMS"
+    },
+    {
+      "brandCode": "Porter",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_PORTER.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_PORTER.jpg",
+      "keywordSearch": "PORTER"
+    },
+    {
+      "brandCode": "mizuno",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_Mizuno.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_Mizuno.jpg",
+      "keywordSearch": "mizuno"
+    },
+    {
+      "brandCode": "Polo Ralph Lauren",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_Polo_Ralph_Lauren.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_Polo_Ralph_Lauren.jpg",
+      "keywordSearch": "Polo Ralph Lauren"
+    },
+    {
+      "brandCode": "Arcteryx",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_ARC_TERYX.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_ARC_TERYX.jpg",
+      "keywordSearch": "ARC'TERYX"
+    },
+    {
+      "brandCode": "Bandai",
+      "brandLogoImage": "https://customer-assets.everuts.com/hot-brands/images/home_brandName_Bandai.png",
+      "productImage": "https://customer-assets.everuts.com/hot-brands/images/home_product_img_Bandai.jpg",
+      "keywordSearch": "Bandai"
+    }
+  ]
+}
