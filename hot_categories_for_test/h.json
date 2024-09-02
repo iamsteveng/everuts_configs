@@ -2,83 +2,123 @@
   "hotCategories": [
     {
       "name": {
-        "en": "Chanel",
-        "zh-HK": "Chanel",
-        "zh-CN": "Chanel"
+        "en": "Luxury",
+        "zh-HK": "國際時尚名牌",
+        "zh-CN": "国际时尚名牌"
       },
-      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_chanel.png",
-      "level": 1,
-      "categoryFacetEn": "Luxury > Chanel"
-    },
-    {
-      "name": {
-        "en": "Drinkware",
-        "zh-HK": "杯",
-        "zh-CN": "杯"
-      },
-      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_cycling.png",
-      "level": 2,
-      "categoryFacetEn": "Home & Kitchen > Tableware & Supplies > Drinkware"
-    },
-    {
-      "name": {
-        "en": "Camping & Glamping",
-        "zh-HK": "露營用品",
-        "zh-CN": "露營用品"
-      },
-      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_fineWatches.png",
-      "level": 1,
-      "categoryFacetEn": "Sports & Outdoors > Camping & Glamping"
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_luxury.png",
+      "level": 0,
+      "categoryFacetEn": "Luxury"
     },
     {
       "name": {
         "en": "Women's Fashion",
         "zh-HK": "女士服飾",
-        "zh-CN": "女士服飾"
+        "zh-CN": "女士服饰"
       },
-      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_fragrance.png",
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_wmnFashion.png",
       "level": 0,
       "categoryFacetEn": "Women's Fashion"
     },
     {
       "name": {
-        "en": "Men T-Shirt",
-        "zh-HK": "男士T恤",
-        "zh-CN": "男士T恤"
+        "en": "Men's Fashion",
+        "zh-HK": "男士服飾",
+        "zh-CN": "男士服饰"
       },
-      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_goyard.png",
-      "level": 2,
-      "categoryFacetEn": "Men's Fashion > Tops > T-Shirt"
-    },
-    {
-      "name": {
-        "en": "Candle Making",
-        "zh-HK": "蠟燭製作",
-        "zh-CN": "蠟燭製作"
-      },
-      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_hermes.png",
-      "level": 2,
-      "categoryFacetEn": "Hobbies > Arts & Crafts > Candle Making"
-    },
-    {
-      "name": {
-        "en": "Food",
-        "zh-HK": "食品",
-        "zh-CN": "食品"
-      },
-      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_supplements.png",
-      "level": 1,
-      "categoryFacetEn": "Food & Drink > Food"
-    },
-    {
-      "name": {
-        "en": "Hobbies",
-        "zh-HK": "興趣及愛好",
-        "zh-CN": "興趣及愛好"
-      },
-      "image": "https://customer-assets.everutm.link/hot-categories/images/hotCat_toysfigure.png",
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_menFashion.png",
       "level": 0,
-      "categoryFacetEn": "Hobbies"
+      "categoryFacetEn": "Men's Fashion"
+    },
+    {
+      "name": {
+        "en": "Skin Care",
+        "zh-HK": "護膚品",
+        "zh-CN": "护肤品"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_skinCare.png",
+      "level": 1,
+      "categoryFacetEn": "Beauty & Fragrance > Skincare"
+    },
+    {
+      "name": {
+        "en": "Makeup",
+        "zh-HK": "化妝品",
+        "zh-CN": "化妆品"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_makeup.png",
+      "level": 1,
+      "categoryFacetEn": "Beauty & Fragrance > Makeup"
+    },
+    {
+      "name": {
+        "en": "Hair",
+        "zh-HK": "頭髮",
+        "zh-CN": "头发"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_hair.png",
+      "level": 1,
+      "categoryFacetEn": "Beauty & Fragrance > Hair"
+    },
+    {
+      "name": {
+        "en": "Beauty Appliance",
+        "zh-HK": "美容儀器",
+        "zh-CN": "美容仪器"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_beautyAppliance.png",
+      "level": 1,
+      "categoryFacetEn": "Beauty & Fragrance > Beauty Appliance"
+    },
+    {
+      "name": {
+        "en": "Supplement",
+        "zh-HK": "保健食品",
+        "zh-CN": "保健食品"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_supplement.png",
+      "level": 1,
+      "categoryFacetEn": "Health & Diet > Supplements"
+    },
+    {
+      "name": {
+        "en": "Personal Care",
+        "zh-HK": "個人護理",
+        "zh-CN": "个人护理"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_personalCare.png",
+      "level": 1,
+      "categoryFacetEn": "Health & Diet > Personal Care"
+    },
+    {
+      "name": {
+        "en": "Pet",
+        "zh-HK": "寵物",
+        "zh-CN": "宠物"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_pet.png",
+      "level": 0,
+      "categoryFacetEn": "Pet"
+    },
+    {
+      "name": {
+        "en": "Food & Drink",
+        "zh-HK": "食品及飲料",
+        "zh-CN": "食品及饮料"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_foodDrink.png",
+      "level": 0,
+      "categoryFacetEn": "Food & Drink"
+    },
+    {
+      "name": {
+        "en": "Toys & Figures",
+        "zh-HK": "玩具及模型",
+        "zh-CN": "玩具及模型"
+      },
+      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_toysFigures.png",
+      "level": 1,
+      "categoryFacetEn": "Hobbies > Toys & Figures"
     }
   ]
 }
