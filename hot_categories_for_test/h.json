@@ -2,13 +2,12 @@
   "hotCategories": [
     {
       "name": {
-        "en": "Luxury",
-        "zh-HK": "國際時尚名牌",
-        "zh-CN": "国际时尚名牌"
+        "en": "Beauty Sale",
+        "zh-HK": "秋季美妝優惠",
+        "zh-CN": "秋季美妆优惠"
       },
-      "image": "https://customer-assets.everuts.com/hot-categories/images/1img_hotCat_luxury.png",
-      "level": 0,
-      "categoryFacetEn": "Luxury"
+      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everuts.com/hot-categories/images/img_hotCat_customList_beauty_v2.png",
+      "tag": "Autumn Beauty Sale"
     },
     {
       "name": {
