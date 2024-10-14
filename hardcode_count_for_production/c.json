@@ -1,124 +1,23 @@
 {
   "countries": [
-    {
-      "code": "JP",
-      "count": 127519
-    },
-    {
-      "code": "TH",
-      "count": 48180
-    },
-    {
-      "code": "HK",
-      "count": 16589
-    },
-    {
-      "code": "FR",
-      "count": 15534
-    },
-    {
-      "code": "KR",
-      "count": 14732
-    },
-    {
-      "code": "GB",
-      "count": 14122
-    },
-    {
-      "code": "TW",
-      "count": 3865
-    },
-    {
-      "code": "AU",
-      "count": 1451
-    },
-    {
-      "code": "CA",
-      "count": 1407
-    },
-    {
-      "code": "US",
-      "count": 1248
-    },
-    {
-      "code": "DE",
-      "count": 1038
-    },
-    {
-      "code": "MY",
-      "count": 565
-    },
-    {
-      "code": "IT",
-      "count": 358
-    },
-    {
-      "code": "SG",
-      "count": 275
-    },
-    {
-      "code": "NZ",
-      "count": 258
-    },
-    {
-      "code": "NL",
-      "count": 225
-    },
-    {
-      "code": "DK",
-      "count": 222
-    },
-    {
-      "code": "ES",
-      "count": 150
-    },
-    {
-      "code": "MO",
-      "count": 53
-    },
-    {
-      "code": "VN",
-      "count": 28
-    },
-    {
-      "code": "CH",
-      "count": 27
-    },
-    {
-      "code": "PT",
-      "count": 15
-    },
-    {
-      "code": "AE",
-      "count": 12
-    },
-    {
-      "code": "TR",
-      "count": 10
-    },
-    {
-      "code": "NO",
-      "count": 7
-    },
-    {
-      "code": "IS",
-      "count": 6
-    },
-    {
-      "code": "PL",
-      "count": 3
-    },
-    {
-      "code": "CZ",
-      "count": 2
-    },
-    {
-      "code": "BE",
-      "count": 1
-    },
-    {
-      "code": "SE",
-      "count": 1
-    }
+    { "code": "JP", "count": 132495 },
+    { "code": "TH", "count": 44335 },
+    { "code": "HK", "count": 14423 },
+    { "code": "FR", "count": 14053 },
+    { "code": "GB", "count": 13117 },
+    { "code": "TW", "count": 9304 },
+    { "code": "KR", "count": 8219 },
+    { "code": "AU", "count": 983 },
+    { "code": "DE", "count": 250 },
+    { "code": "MY", "count": 158 },
+    { "code": "CA", "count": 120 },
+    { "code": "NZ", "count": 105 },
+    { "code": "US", "count": 63 },
+    { "code": "DK", "count": 58 },
+    { "code": "NL", "count": 58 },
+    { "code": "SG", "count": 53 },
+    { "code": "IT", "count": 50 },
+    { "code": "MO", "count": 11 },
+    { "code": "PT", "count": 10 }
   ]
 }
