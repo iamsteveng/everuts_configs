@@ -2,12 +2,12 @@
   "hotCategories": [
     {
       "name": {
-        "en": "Beauty Sale",
-        "zh-HK": "秋季美妝優惠",
-        "zh-CN": "秋季美妆优惠"
+        "en": "Same Price As Korea",
+        "zh-HK": "韓國同價",
+        "zh-CN": "韩国同价"
       },
-      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everuts.com/hot-categories/images/img_hotCat_customList_beauty_v2.png",
-      "tag": "Autumn Beauty Sale"
+      "image": "https://s3.ap-southeast-1.amazonaws.com/customer-assets.everuts.com/hot-categories/images/20241016_korea_same_price.png",
+      "tag": "Same Price As Korea"
     },
     {
       "name": {
