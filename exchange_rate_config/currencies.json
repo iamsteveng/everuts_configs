@@ -1,0 +1,29 @@
+[
+  {
+    "key": "CURRENCIES",
+    "subkey": "DEFAULT",
+    "value": [
+      "AED",
+      "AUD",
+      "CAD",
+      "CHF",
+      "DKK",
+      "EUR",
+      "GBP",
+      "HKD",
+      "JPY",
+      "KRW",
+      "MOP",
+      "MYR",
+      "NOK",
+      "NZD",
+      "PHP",
+      "SGD",
+      "THB",
+      "TRY",
+      "TWD",
+      "USD",
+      "VND"
+    ]
+  }
+]

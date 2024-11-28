@@ -1,0 +1,42 @@
+[
+  {
+    "key": "ROUNDING",
+    "subkey": "DEFAULT",
+    "value": 4
+  },
+  {
+    "key": "ROUNDING",
+    "subkey": "EUR:HKD",
+    "value": 1
+  },
+  {
+    "key": "ROUNDING",
+    "subkey": "GBP:HKD",
+    "value": 1
+  },
+  {
+    "key": "ROUNDING",
+    "subkey": "JPY:HKD",
+    "value": 3
+  },
+  {
+    "key": "ROUNDING",
+    "subkey": "KRW:HKD",
+    "value": 4
+  },
+  {
+    "key": "ROUNDING",
+    "subkey": "THB:HKD",
+    "value": 2
+  },
+  {
+    "key": "ROUNDING",
+    "subkey": "TWD:HKD",
+    "value": 2
+  },
+  {
+    "key": "ROUNDING",
+    "subkey": "USD:HKD",
+    "value": 1
+  }
+]
